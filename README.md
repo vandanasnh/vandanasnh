@@ -2,7 +2,7 @@
 
 ![my hub](https://github.com/vandanasnh/vandanasnh/blob/main/GitHubCopilot2.jpg)
 
-**vandanasnh/vandanasnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vandanasnh** is a ✨ _special_ ✨ repository because its `README.md`  appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
