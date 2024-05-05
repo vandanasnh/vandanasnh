@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![my hub](https://github.com/vandanasnh/vandanasnh/blob/main/GitHubCopilot2.jpg)
+![my hub](https://github.com/vandanasnh/vandanasnh/blob/main/GitHubCopilot.png)
 
 **vandanasnh** is a ✨ _special_ ✨ repository because its `README.md`  appears on my GitHub profile.
 
