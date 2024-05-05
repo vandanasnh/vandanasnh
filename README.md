@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Link to your Content](https://www.linkedin.com/in/vandana-sinha18/) 
+[Link to your Content](https://github.com/vandanasnh/vandanasnh/blob/main/GitHubCopilot2.jpg)
 
 **vandanasnh/vandanasnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
