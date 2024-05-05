@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Link to your Content](https://www.linkedin.com/in/vandana-sinha18/) 
+
 **vandanasnh/vandanasnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +18,4 @@ Building robust and interpretable machine learning models
 Large-scale marketing analytics
 
 ** How to reach me:** vandanasinha7@gmail.com 
-
+LinkedIn: [Link to your LinkedIn profile](https://www.linkedin.com/in/vandana-sinha18/) 
