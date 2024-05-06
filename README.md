@@ -37,8 +37,8 @@ Interesting projects that leverage machine learning for:
   <p>👆 Hover over the GIF to pause/play</p>
 </div>
 
-<style>
+ <style>
   img:hover {
     animation-play-state: paused;
   }
-</style>
+ </style>
