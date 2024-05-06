@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/vandanasnh/vandanasnh/blob/main/GitHubCopilot.png" alt="My Hub" width="400" />
+  <img src="https://github.com/vandanasnh/vandanasnh/blob/main/GitHubCopilot.png" alt="My Hub" width="700" />
 </div>
 
 **vandanasnh** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
