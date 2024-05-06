@@ -33,12 +33,8 @@ Interesting projects that leverage machine learning for:
 - LinkedIn: [Link to your LinkedIn profile](https://www.linkedin.com/in/vandana-sinha18/)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKG0LcB4hSoRfQY/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/26tn33Pm8QnfO21Lq/giphy.gif" width="400px">
   <p>👆 Hover over the GIF to pause/play</p>
 </div>
 
- <style>
-  img:hover {
-    animation-play-state: paused;
-  }
- </style>
+ 
